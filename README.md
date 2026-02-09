@@ -27,8 +27,6 @@
         <ul>
           <li>🎓 Estudante de Ciência da Computação</li>
           <li>💻 Foco em <strong>Java</strong> (Backend) e <strong>React/React Native</strong> (Frontend)</li>
-          <li>🚀 Criador do <strong>NovaSound</strong> e <strong>DropHunter</strong></li>
-          <li>🧠 Interessado em Teoria da Computação e Filosofia</li>
         </ul>
       </td>
       <td valign="center" width="40%">
@@ -59,16 +57,16 @@
 <h2 align="center">📊 Estatísticas</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff" height="150" alt="stats graph" />
   </a>
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=algolia&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=algolia&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="150" alt="streak graph" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guikino&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
