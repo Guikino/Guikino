@@ -15,15 +15,14 @@
   Gosto de resolver problemas complexos e desenvolver soluções para adversidades reais.
 
   🎓 Cursando **2° período** de Ciência da Computação
-  🧠 Interessado em **Teoria da Computação** e **Filosofia** (Descartes e Foucault)
-  🚀 Projetos em destaque: **NovaSound** e **DropHunter**
+  🧠 Interessado em **Teoria da Computação**
 
   ---
 
   ## ⚙️ Technologies
   
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,kotlin,git,mysql,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresreact,ts,tailwind,git,docker&theme=dark" />
   </p>
 
   ---
@@ -35,17 +34,6 @@
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&hide_border=true" />
 
   </div>
-
-  <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guikino&layout=compact&theme=dark&bg_color=000000&hide_border=true" />
-  
-  </div>
-
-  ---
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guikino&theme=react-dark&bg_color=000000&hide_border=true" width="100%" />
-
-</div>
 
   ---
   
