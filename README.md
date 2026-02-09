@@ -59,7 +59,7 @@ I'm passionate about technology, problem solving and building solutions through 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [Guilherme Macedo](https://linkedin.com/in/guilherme-macedo-18907)
+- 💼 LinkedIn: [Guilherme Macedo](https://linkedin.com/in/guilherme-macedo-farias)
 - 📧 Email: macedoguilherme55@gmail.com
 
 ---
