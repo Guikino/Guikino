@@ -22,7 +22,7 @@
   ## ⚙️ Technologies
   
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresreact,ts,tailwind,git,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,tailwind,git,docker&theme=dark" />
   </p>
 
   ---
