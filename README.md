@@ -30,7 +30,6 @@
   ## 📊 Statistics
 
   <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&hide_border=true" />
 
   </div>
