@@ -32,7 +32,12 @@
 
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=false&border_color=ffffff" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+  </p>
+
+  <p align="center">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&border=ffffff" />
+  </p>
   </p>
 
   <p align="center">
