@@ -31,6 +31,11 @@
 
   <div align="center">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&hide_border=true" />
+    <p>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guikino&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas de Guikino" />
+    
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guikino&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Guikino" />
+  </p>
 
   </div>
 
