@@ -39,9 +39,9 @@ I'm passionate about technology, problem solving and building solutions through 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guikino&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -51,7 +51,7 @@ I'm passionate about technology, problem solving and building solutions through 
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guikino&theme=github-compact)
 
 </div>
 
@@ -59,9 +59,8 @@ I'm passionate about technology, problem solving and building solutions through 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: *em breve*
-- 📧 Email: *em breve*
-- 🌐 Portfolio: *em desenvolvimento*
+- 💼 LinkedIn: [Guilherme Macedo](https://linkedin.com/guilherme-macedo-18907)
+- 📧 Email: macedoguilherme55@gmail.com
 
 ---
 
