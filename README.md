@@ -30,14 +30,22 @@
 
   ## 📊 Statistics
 
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=transparent&hide_border=true&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-  </p>
+  <div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guikino&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guikino&theme=dark&background=000000&hide_border=true" />
 
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guikino&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
-  </p>
+  </div>
+
+  <div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guikino&layout=compact&theme=dark&bg_color=000000&hide_border=true" />
+  
+  </div>
+
+  ---
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guikino&theme=react-dark&bg_color=000000&hide_border=true" width="100%" />
+
+</div>
 
   ---
   
