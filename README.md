@@ -36,6 +36,6 @@
 
   ---
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guikino&theme=dracula&area=true&hide_border=true" width="100%" />
 
 </div>
