@@ -1,1 +1,1 @@
-<img src="[https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzI0YzMxY2Q5eGVycTkzYmtqOWgwcmE4anFlMHY4NHJkM3RyYnNwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/200w.gif" w="100%" alt="squirtle comendo"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzI0YzMxY2Q5eGVycTkzYmtqOWgwcmE4anFlMHY4NHJkM3RyYnNwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/200w.gif" w="100%" alt="squirtle comendo"/>
