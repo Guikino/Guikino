@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td valign="center" width="40%">
-        <img src="https://media.giphy.com/media/QqyJU5V0y5j1y7j8Kk/giphy.gif" width="200" alt="astronaut floating" />
+        <img src="[https://media.giphy.com/media/QqyJU5V0y5j1y7j8Kk/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZsdmJoamp4czhnMXl3cG1hMThqc3I2OGxld2VkbHBiejVpc3M0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ3T6y3JTmjg4w/giphy.gif)" width="200" alt="astronaut floating" />
       </td>
     </tr>
   </table>
